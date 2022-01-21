@@ -18,3 +18,22 @@ body{
 
 }
 
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+}
+
+nav.menu-nav ul li.btn{
+	display: inline-block;
+}
+
+nav.menu-nav ul li.btn a{
+	color: white;
+	background-color: #8B4513;
+	text-decoration: none;
+	padding: 20px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: #8B4513;
+	background-color: white;
+}
