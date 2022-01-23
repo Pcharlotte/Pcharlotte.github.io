@@ -52,3 +52,8 @@ h3 {
 	color: #31904A;
 }
 
+center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
