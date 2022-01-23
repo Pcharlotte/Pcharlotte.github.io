@@ -7,13 +7,17 @@ h2{
 }
 
 p{
-	color: #39C95A;
+	color: #8B4513;
 	font-size: 25px;
 
+
+}
+p.maclasse{
+	font-size: 30px;
 }
 
 body{
-	background: url("https://l-express.ca/wp-content/uploads/2020/02/0218-Agricom_0214-Le-fer-a-cheval-Fer-a-cheval-horizontal-R.Lormand.jpg") no-repeat;
+	background:  url("https://www.lairdubois.fr/media/cache/470x275o/b297289032e3c79eb22516f89f4768a689c91909.jpg");
 	background-size: 100%;
 
 }
@@ -37,3 +41,14 @@ nav.menu-nav ul li.btn:hover a{
 	color: #8B4513;
 	background-color: white;
 }
+
+table, th, td {
+      padding: 10px;
+      border: 1px solid black;
+      border-collapse: collapse;
+      }
+
+h3 {
+	color: #31904A;
+}
+
